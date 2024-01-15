@@ -1,26 +1,35 @@
 # Hey! My name is Lucas, and I'm from Brazil (🇧🇷)
 
 ### About Me
-Backend Development Skills:
 
-Habilidades em Desenvolvimento Backend	Habilidades em Desenvolvimento Android
-Kotlin (Principal)	Kotlin
-Java	Java
-Spring Boot	Arquitetura MVVM
-PostgreSQL	Koin para injeção de dependências
-Postgis	Firebase
-SQL	Responsividade em XML
-Testes unitários
-Hibernate
-Programação Orientada a Objetos
-Desenvolvimento de Restful API’s
-Microsserviços
+# Backend Development Skills:
+
+- Kotlin (Main)
+- Java
+- Spring Boot
+- PostgreSQL
+- Postgis
+- SQL
+- Unit Testing
+- Hibernate
+- Object-Oriented Programming
+- Development of Restful APIs
+- Microservices
+
+# Android Development Skills:
+
+- Kotlin
+- Java
+- MVVM architecture
+- Koin for dependency injection
+- Firebase
+- XML responsiveness
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 <div align="center">
-   <a href="https://www.linkedin.com/in/drianolma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.youtube.com/channel/UCQVtwi-b85TEbVQ-VVtk5BQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lucasrochadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UCg25X3DE8jEnqpKlDv9N8EA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ***
