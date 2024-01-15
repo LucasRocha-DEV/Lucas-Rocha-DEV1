@@ -3,27 +3,18 @@
 ### About Me
 Backend Development Skills:
 
-- Kotlin (Main)
-- Java
-Spring Boot
-PostgreSQL
-Postgis
-SQL
-Unit Testing
+Habilidades em Desenvolvimento Backend	Habilidades em Desenvolvimento Android
+Kotlin (Principal)	Kotlin
+Java	Java
+Spring Boot	Arquitetura MVVM
+PostgreSQL	Koin para injeção de dependências
+Postgis	Firebase
+SQL	Responsividade em XML
+Testes unitários
 Hibernate
-Object-Oriented Programming
-Development of Restful APIs
-Microservices
-
-Android Development Skills:
-
-Kotlin
-Java
-MVVM architecture
-Koin for dependency injection
-Firebase
-XML responsiveness
-
+Programação Orientada a Objetos
+Desenvolvimento de Restful API’s
+Microsserviços
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
