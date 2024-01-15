@@ -3,8 +3,8 @@
 ### About Me
 Backend Development Skills:
 
-Kotlin (Main)
-Java
+- Kotlin (Main)
+- Java
 Spring Boot
 PostgreSQL
 Postgis
